@@ -3,4 +3,5 @@
 ###### This is an H6 Header (Smallest)
 
 ## Summary
-This repository will contain all of the notes taken by Sanjay (me) for the Lighthouse Labs Web Development Bootcamp.
+This repository will contain all of the notes taken by [Sanjay](https://github.com/swamysanjay) for the Lighthouse Labs Web Development Bootcamp.
+
